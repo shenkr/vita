@@ -1,0 +1,43 @@
+body {
+	background-size:cover;
+}
+h1, h2 {
+	text-align: center;
+}
+h1 a {
+	text-decoration:none; color: #086A87;
+}
+h2 a {
+	color: inherit;
+}
+#author {
+	float:right;
+	margin-top:-100px;
+	border:solid white 3px;
+}
+#content {
+	text-align:left;
+	width:450px;
+	padding-left:20px;
+	margin-left:500px;
+	font-size: 30px;
+	margin-top:50px
+}
+#content p {
+	text-indent:50px;
+}
+#gallery {
+	border:solid white 3px;
+	margin-left:150px;
+	margin-right:50px;
+}
+#gallery img {
+	height: 400px;
+	width: 350px;
+}
+.contacts {
+	font-size:30px;
+}
+table th {
+	font-size:25px;
+}
